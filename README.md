@@ -41,4 +41,4 @@ Open index.html in your browser
 <img src="./thai-adventures/thai-adventures.gif" width="1200" height="650">
 
 # Video
-[Check out my YouTube video!](https://youtu.be/dXh6Hszmgy4)
+[Check out my YouTube video!](https://youtu.be/9gB__mvd8dQ)
