@@ -36,7 +36,7 @@ Open index.html in your browser
 
 👇 If you like the project, don't forget to star it!
 
-![Demo RentScooter](./thai-adventures/thai-adventures.png)
+![Demo Thai Adventures](./thai-adventures/thai-adventures.png)
 # GIF Demo
 <img src="./thai-adventures/thai-adventures.gif" width="1200" height="650">
 
